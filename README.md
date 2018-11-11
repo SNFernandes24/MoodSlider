@@ -1,3 +1,36 @@
+## MoodSlider
+
+This is a back-up in case any files in main project get corrupted.
+
+## Requirements
+
+Node.js<br>
+NPM<br>
+
+## Setup
+
+1. Open folder in editor of choice<br>
+2. Run [npm install dependencies]<br>
+3. Run [npm start]<br>
+4. Google Chrome is reccomended to view the project on <br>
+5. The project is not fully responsive as the slider labels can drop to different line but rest is tested on mobile.<br>
+6. XML test file is included in src folder and also all images are in public>images <br>
+
+## Overview of project and how it works
+
+The project is a one page website that is made using React, HTML, CSS, Javascript. There is no back-end to this project
+so all images are in public folder and not on database which may affect load speed. Majority of the focus was on problem
+solving to build a working solution rather than design so the CSS styling is lackluster but no part of it has been automated
+using various libraries.<br>
+When the site opens you can click upload content to upload xml file containing the data needed(there is test one in src 
+folder reccomend following same pattern if adding to it in order to not break it).<br>
+After you can move slider to choose your mood and movies with their respective poster + title will come up underneath,
+you can continue adjusting slider to remove and add movies.<br>
+
+You may notice some additional things on project specifically the bad state, this is added to further progress this site in future
+to add aditional features.
+
+## Create-React-App readme
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
