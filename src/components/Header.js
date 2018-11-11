@@ -12,7 +12,7 @@ const Header = ({handleChange}) => {
                 <img src={mobLogo} alt="mobile logo" className="imgMobile"/>
             </a>
             <span>
-                <h1 className="tc">Title Bar</h1>
+                <h1 className="tc">Sky Home</h1>
                 <br />
                 <h2>Moodslider | 
                     <span>
