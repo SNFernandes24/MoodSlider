@@ -1,0 +1,37 @@
+.sliderContainer {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    height: 5px;
+    width: 70%;
+    background: #7c7c7c;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    margin: 0px 15px 15px 15px;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    background: rgb(148, 5, 5);
+    cursor: pointer;
+}
+
+.sliderLabel {
+    width: 100px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 17px;
+}
