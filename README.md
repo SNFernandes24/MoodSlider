@@ -1,3 +1,14 @@
+## MoodSlider
+
+This is a back-up in case any files in main project get corrupted.
+
+## Requirements
+
+Node.js
+NPM
+
+
+## Create-React-App readme
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
