@@ -4,8 +4,17 @@ This is a back-up in case any files in main project get corrupted.
 
 ## Requirements
 
-Node.js
-NPM
+Node.js<br>
+NPM<br>
+
+## Setup
+
+1. Open folder in editor of choice<br>
+2. Run [npm install dependencies]<br>
+3. Run [npm start]<br>
+
+## Overview of project and how it works
+
 
 
 ## Create-React-App readme
